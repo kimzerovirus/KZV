@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-### 💪 Skills
+## 💪 Skills
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -38,6 +38,6 @@
 <br/>
 <br/>
 
-### 🏆 Stats
+## 🏆 Stats
 [![github stats](https://github-readme-stats.vercel.app/api?username=kimzerovirus&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff9999&icon_color=ffe062&text_color=bebebe)](https://github.com/kimzerovirus)
 [![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=kimzerovirus&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff9999&icon_color=ffe062&text_color=bebebe)](https://github.com/kimzerovirus)
