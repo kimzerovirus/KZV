@@ -1,13 +1,24 @@
 <!-- background: #193549-->
+<div align="center">
+
+<p>
+  👋&nbsp; Hi!
+</p>
+  
+  [![github stats](https://github-readme-stats.vercel.app/api?username=kimzerovirus&count_private=true&show_icons=true&border=00000000&bg_color=00000000&title_color=ff9999&icon_color=ffe062&text_color=bebebe)](https://github.com/kimzerovirus)
+  
 <p>
   <a href="https://ekgoddldi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-239120?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:zerovirus96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zerovirus96@gmail.com-FF7800?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-
-<p>
-  👋&nbsp; Hi!
-</p>
+  <p>
+    ❤️
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  </p>
+  
+</div>
  
  
 <!--  * Solugate - VA Service Platform (21.06.14 ~ 21.12.17) <!-- virtual agent -->
