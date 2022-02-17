@@ -1,9 +1,9 @@
 <!-- background: #193549-->
 <div align="center">
 
-<p>
+<h3>
   👋&nbsp; Hi!
-</p>
+</h3>
   
   [![github stats](https://github-readme-stats.vercel.app/api?username=kimzerovirus&count_private=true&show_icons=true&bg_color=0D1117&title_color=ff9999&icon_color=ffe062&text_color=bebebe)](https://github.com/kimzerovirus)
   
