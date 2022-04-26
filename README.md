@@ -11,13 +11,13 @@
   <a href="https://ekgoddldi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-239120?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:zerovirus96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zerovirus96@gmail.com-FF7800?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
+<!-- 
   <p>
     ❤️&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     ❤️
-  </p>
+  </p> -->
   
 </div>
  
