@@ -5,7 +5,7 @@
   👋&nbsp; Hi!
 </h3>
   
-  [![github stats](https://github-readme-stats.vercel.app/api?username=kimzerovirus&count_private=true&show_icons=true&bg_color=0D1117&title_color=ff9999&icon_color=ffe062&text_color=bebebe)](https://github.com/kimzerovirus)
+<!--   [![github stats](https://github-readme-stats.vercel.app/api?username=kimzerovirus&count_private=true&show_icons=true&bg_color=0D1117&title_color=ff9999&icon_color=ffe062&text_color=bebebe)](https://github.com/kimzerovirus) -->
   
 <p>
   <a href="https://ekgoddldi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-239120?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
